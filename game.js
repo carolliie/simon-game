@@ -8,7 +8,7 @@ var started = false;
 
 var level = 0;
 
-$(document).keypress(function() {
+$(document).click(function() {
     if (!started) {
         $("#level-title").text("Level " + level);
         nextSquence();
@@ -34,7 +34,7 @@ function checkAnswer(currentLevel) {
             setTimeout(function() {
                 nextSquence();
     
-            }, 1000);
+            }, 1200);
         }
     } else {
     
