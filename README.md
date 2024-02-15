@@ -15,4 +15,4 @@
 
 <p>Para ver mais projetos, entre nos repositórios do meu Github. 📺</p>
 
-<img loading="lazy" src="https://i.pinimg.com/originals/3f/84/8c/3f848c72c925b86911ce99ec280a22b5.gif"/>
+<img loading="lazy" src="https://i.pinimg.com/originals/0f/c5/7c/0fc57c690ae25c8687562de40b673cd2.gif"/>
