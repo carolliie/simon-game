@@ -6,8 +6,8 @@
 
 <p>Os códigos feitos nas linguagens: C, Python e JavaScript, serão implementados ao longo do semestre, a fim de exercitar a prática da programação e exibir os novos conhecimentos adquiridos, também como forma de aprendizado. </p>
 
-<h3>JS Game Code</h3>
-<p>O link disponível para a página web do repositório, direciona o usuário a um mini-jogo, chamado Simon Game.</br> O programa foi desenvolvido baseado no paradigma de programação orientada a eventos e paradigma declarativo, onde o código funciona a partir da determinação de eventos com uma estrutura mais compreensível de programação.
+<h3>JS Simon Game - Code</h3>
+<p>O link disponível para a página web do repositório, direciona o usuário a um mini-jogo, chamado Simon Game.</br> O programa foi desenvolvido baseado no paradigma de programação orientado a eventos e no paradigma declarativo, onde o código funciona a partir da determinação de eventos com uma estrutura mais compreensível de programação.
 </p>
 
 <h3>C, Python e etc - Codes</h3>
