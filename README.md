@@ -1,4 +1,4 @@
-<h1 align="center">prog</h1>
+<h1>prog</h1>
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 
 <h3># Descrição</h3>
