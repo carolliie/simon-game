@@ -12,3 +12,7 @@
 
 <h3>C, Python e etc - Codes</h3>
 <p>Os códigos alheios a programação web, em JS, apresentam outros paradigmas de programação (como programação orientada a objetos). Estes códigos são feitos para exemplificação de problemas e exercícios encontrados para estudo durante as aulas de laboratório de programação.</p>
+
+<p>Para ver mais projetos, entre nos repositórios do meu Github. 📺</p>
+
+<img loading="lazy" src="https://i.pinimg.com/originals/f8/70/49/f870496f6f8fc9388e11c4abad188a7a.gif"/>
