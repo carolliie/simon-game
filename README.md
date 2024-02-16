@@ -7,7 +7,6 @@
 
 <p>Os códigos feitos nas linguagens: C, Python e JavaScript, serão implementados ao longo do semestre, a fim de exercitar a prática da programação e exibir os novos conhecimentos adquiridos, também como forma de aprendizado. </p>
 
-</br>
 
 ## JS Simon Game - Code
 
